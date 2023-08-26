@@ -2,7 +2,9 @@
 __pycache__/
 *.py[cod]
 *$py.class
-
+./assets/test/*
+./assets/train/*
+./assets/valid/*
 # C extensions
 *.so
 
@@ -101,3 +103,6 @@ ENV/
 .mypy_cache/
 
 .github/**
+assets/test/**
+assets/train/**
+assets/valid/**
