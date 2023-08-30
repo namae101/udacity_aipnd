@@ -103,6 +103,6 @@ ENV/
 .mypy_cache/
 
 .github/**
-assets/test/**
-assets/train/**
-assets/valid/**
+flowers/**
+
+**.pth
